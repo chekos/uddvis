@@ -6,7 +6,7 @@
 
 - **Eduardo Graells-Garrido**
 - Instituto de Data Science UDD / Telefónica I+D Chile
-- egraells@udd.cl / @carnby
+- egraells@udd.cl / [@carnby](https://twitter.com/carnby)
 
 Este repositorio contiene el material práctico de mi curso de visualización en Python. 
 
@@ -37,11 +37,11 @@ Los datos que utiliza el curso son los siguientes:
 
 El código hace uso de las siguientes bibliotecas de software:
 
-- numpy
-- pandas
-- geopandas
-- matplotlib
-- seaborn
-- networkx
-- scikit-learn
-- pysal
+- `numpy`
+- `pandas`
+- `geopandas`
+- `matplotlib`
+- `seaborn`
+- `networkx`
+- `scikit-learn`
+- `pysal`
