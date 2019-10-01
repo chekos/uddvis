@@ -17,7 +17,7 @@ El curso requiere tener conocimientos básicos de análisis de datos con `pandas
 Para instalar las bibliotecas necesarias, puedes utilizar `conda`:
 
 ```
-conda env create -f environment.yml
+conda env create -f .binder/environment.yml
 ```
 
 Si tienes tu propio environment y algunas cosas no funcionan, compara las versiones de las bibliotecas que tienes instaladas con las del environment del curso. Particularmente, pon atención a las versiones de `geopandas` y `pyproj`.
